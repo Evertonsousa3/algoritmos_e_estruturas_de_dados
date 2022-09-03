@@ -1,4 +1,4 @@
-# Implementação de Stack personalizada # em Python
+# Implementação de Stack personalizada em Python
 class Stack:
 
     # Construtor # para inicializar a Stack
