@@ -80,7 +80,7 @@ def fila():
         print('A fila não está vazia!')
 
 def fila_dupla():
-    
+
     filaTeste = Fila_dupla(20)  # ............ Define o tamanho da fila
 
     # Testando inserção no inicio
